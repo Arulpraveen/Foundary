@@ -1,7 +1,7 @@
 # ADR 0001 — Why Foundry Exists
 
 **Status:** Accepted  
-**Date:** 2025-01-XX
+**Date:** 2025-12-14
 
 ## Context
 Over time, building multiple internal and experimental tools has repeatedly required re-deciding basic infrastructure, UI patterns, and architectural structure. This introduces cognitive overhead, loss of momentum, and reduced confidence when starting new projects.
